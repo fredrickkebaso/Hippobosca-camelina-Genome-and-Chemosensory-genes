@@ -27,6 +27,10 @@ In this study, it is postulated that *Hippobosca camelina*, an obligate organism
 heat, visual cues, humidity and other survival mechanisms such as predator evasion, mate location, and host finding. Therefore, this study aimed to assemble the genomes of  *Hippobosca camelina* species and identify the putative 
 chemosensory genes that support their superb chemical sensing ability.
 
+### Software and Packages
+
+The comprehensive list of softwares and packages used can be accessed here: [Softwares and packages](https://github.com/fredrickkebaso/Hippobosca-camelina-Genome-and-Chemosensory-genes/blob/main/Softwares/softwares.md).
+
 ### Results
 
 The genome size for *Hippobosca camelina* female is **135.6 Mb** with **17.08%** repeated regions, an **N50 of 1.2 Mb**, a total of **2,182 contigs**, a **GC content of 33.5%**, and a Compleasm (BUSCO) completion rate of **95.38%** with the *diptera_odb10* lineage (**S:95.83%**, 3148, **D:0.30%**, 10, **F:0.30%**, 10, **I:0.00%**, 0, **M:3.56%**, 117, **N:3285**).  

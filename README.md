@@ -1,4 +1,4 @@
-# Reduced genome size and chemosensory system genes may implicate narrower ecological niches and obligate hematophagy lifestyle of *Hippobosca camelina* (camel ked).
+# De novo genome assembly, annotation, and characterization of chemosensory genes in *Hippobosca camelina* (camel ked).
 
 ## Background
 
